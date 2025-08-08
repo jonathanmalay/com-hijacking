@@ -1,0 +1,5 @@
+LIBRARY "DataExchange"
+EXPORTS
+    DllCanUnloadNow=DataExchange.DllCanUnloadNow @1
+    DllGetActivationFactory=DataExchange.DllGetActivationFactory @2
+    DllGetClassObject=DataExchange.DllGetClassObject @3

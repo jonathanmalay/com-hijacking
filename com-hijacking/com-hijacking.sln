@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "com-hijacking", "com-hijacking.vcxproj", "{FDA975D2-201A-4376-AFFC-1D7E43970AD5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "com-hijacking-dll", "..\com-hijacking-dll\com-hijacking-dll.vcxproj", "{1E343E26-7B34-4386-9681-EE652860647D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA975D2-201A-4376-AFFC-1D7E43970AD5}.Debug|x64.ActiveCfg = Debug|x64
+		{FDA975D2-201A-4376-AFFC-1D7E43970AD5}.Debug|x64.Build.0 = Debug|x64
+		{FDA975D2-201A-4376-AFFC-1D7E43970AD5}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDA975D2-201A-4376-AFFC-1D7E43970AD5}.Debug|x86.Build.0 = Debug|Win32
+		{FDA975D2-201A-4376-AFFC-1D7E43970AD5}.Release|x64.ActiveCfg = Release|x64
+		{FDA975D2-201A-4376-AFFC-1D7E43970AD5}.Release|x64.Build.0 = Release|x64
+		{FDA975D2-201A-4376-AFFC-1D7E43970AD5}.Release|x86.ActiveCfg = Release|Win32
+		{FDA975D2-201A-4376-AFFC-1D7E43970AD5}.Release|x86.Build.0 = Release|Win32
+		{1E343E26-7B34-4386-9681-EE652860647D}.Debug|x64.ActiveCfg = Debug|x64
+		{1E343E26-7B34-4386-9681-EE652860647D}.Debug|x64.Build.0 = Debug|x64
+		{1E343E26-7B34-4386-9681-EE652860647D}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E343E26-7B34-4386-9681-EE652860647D}.Debug|x86.Build.0 = Debug|Win32
+		{1E343E26-7B34-4386-9681-EE652860647D}.Release|x64.ActiveCfg = Release|x64
+		{1E343E26-7B34-4386-9681-EE652860647D}.Release|x64.Build.0 = Release|x64
+		{1E343E26-7B34-4386-9681-EE652860647D}.Release|x86.ActiveCfg = Release|Win32
+		{1E343E26-7B34-4386-9681-EE652860647D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F710987-880C-4320-96CF-7BD068D72558}
+	EndGlobalSection
+EndGlobal
